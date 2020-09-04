@@ -1,4 +1,4 @@
-# BigSur 11 Beta 5 OpenCore Catalina and Big sur
+# OpenCore is used for Catalina and Big sur
 
 
 ![alt text](https://i.imgur.com/wqgeiG6.png)
