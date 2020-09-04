@@ -1,7 +1,9 @@
-# BigSur 11 Beta 5 OpenCore iMac20,1
-Can be used for Catalina
+# BigSur 11 Beta 5 OpenCore Catalina and Big sur
+
 
 ![alt text](https://i.imgur.com/wqgeiG6.png)
+
+![alt text](https://i.imgur.com/jG7EULt.png)
 
 # Hardware
 - Intel i7-10700k
